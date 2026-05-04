@@ -3,6 +3,7 @@
 ## This Week
 - [x] Set up project structure
 - [x] Connect to GitHub
+- [x] Organize Obsidian vault with business sections
 - [ ] Build June retreat landing page
 - [ ] Create attendee tracking system
 - [ ] Write email outreach templates

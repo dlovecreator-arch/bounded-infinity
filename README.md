@@ -8,7 +8,13 @@ Building men's retreats, community, and the resonant connection platform.
 - Build landing pages and outreach systems
 - Lay groundwork for the AI connection platform
 
-## Project Structure
+## Knowledge Base
+
+Your Sovereign Vault Obsidian vault at `~/Desktop/Sovereign Vault/` contains:
+- 231+ sources on Human Design, astrology, Gene Keys, spirituality
+- 14 wiki pages summarizing all that knowledge
+- Business section connecting knowledge to Bounded Infinity ventures
+- See `~/Desktop/Sovereign Vault/HOW-TO-USE-WITH-AI.md` for how to use with any AI
 
 ```
 bounded-infinity/
