@@ -1,8 +1,8 @@
 # Todo List
 
 ## This Week
-- [ ] Set up project structure (DONE)
-- [ ] Connect to GitHub
+- [x] Set up project structure
+- [x] Connect to GitHub
 - [ ] Build June retreat landing page
 - [ ] Create attendee tracking system
 - [ ] Write email outreach templates

@@ -48,14 +48,13 @@ On a Mac, you can find this by:
 - Folder structure set up
 - Git repository initialized
 - README, AGENTS.md, and todo.md created
+- GitHub account: dlovecreator-arch
+- Repo created and pushed: github.com/dlovecreator-arch/bounded-infinity
 - See SESSION-LOG.md for full details
 
 ## What Needs To Happen Next
-1. Log into GitHub (run: gh auth login)
-2. Create a GitHub repository
-3. Push the project to GitHub
-4. Build the June retreat landing page
-5. Deploy the website (free on Vercel or Netlify)
+1. Build the June retreat landing page
+2. Deploy the website (free on Vercel or Netlify)
 
 ## Free Tools We Plan To Use
 - GitHub -- stores your code online
